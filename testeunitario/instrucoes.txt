@@ -1,0 +1,8 @@
+Para executar o teste unitário, abra o terminal (atalho: Ctrl+') e digite pip install coverage.
+Depois disso, basta executar o arquivo teste_calculo_media.py e o resultado do teste será exibido.
+Uma vez que vocês tenham compreendido o funcionamento dos testes unitários, crie um outro arquivo Python
+para fazer o teste do arquivo calculadora.py.
+Lembre-se de utilizar os imports (linhas 1 a 5) e os comandos de criação de cobertura e exibição do teste (linhas 38 a 58) 
+utilizados no teste_calculo_media.py.
+No arquivo .coveragerc.txt, você deve incluir o nome do seu arquivo criado, para que a taxa de cobertura dele não
+influencie no teste como um todo.
